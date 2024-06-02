@@ -10,7 +10,6 @@ ATSmart is a web application designed to assist users in evaluating their resume
 
 ## Technologies Used
 
-- **Django**: Backend framework for building the web application.
 - **Streamlit**: For creating interactive and data-driven UI components.
 - **Google GenerativeAI Gemini Pro**: Advanced AI model for resume evaluation.
 - **PyPDF2**: Python library that allows users to manipulate and extract information from PDF files.
@@ -19,8 +18,8 @@ ATSmart is a web application designed to assist users in evaluating their resume
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/atsmart.git
-    cd atsmart
+    git clone https://github.com/durgeshmehar/ATS-Smart.git
+    cd ATS-Smart
     ```
 
 2. **Set Up Virtual Environment**:
@@ -34,28 +33,16 @@ ATSmart is a web application designed to assist users in evaluating their resume
     pip install -r requirements.txt
     ```
 
-4. **Run Migrations**:
+4. **Run Streamlit App**:
     ```bash
-    python manage.py migrate
+    streamlit run app.py
     ```
+5. Enjoy the app on http://localhost:8501/
+<br/>
+<hr>
+<div align="center">
 
-5. **Run the Development Server**:
-    ```bash
-    python manage.py runserver
-    ```
+# 🎉 Thank You 🎉
 
-6. **Run Streamlit App**:
-    ```bash
-    streamlit run streamlit_app.py
-    ```
-    
-## Acknowledgements
-
-- **Google GenerativeAI Gemini Pro**: For providing the AI model used for resume evaluation.
-- **Django**: For the robust web framework.
-- **Streamlit**: For creating interactive UI components.
-
----
-
-Feel free to explore, use, and contribute to ATSmart. For any issues or feature requests, please open an issue in the repository.
+</div>
 

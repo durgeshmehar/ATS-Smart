@@ -1,6 +1,6 @@
 # ATSmart
 
-ATSmart is a web application designed to assist users in evaluating their resumes based on a given job description. The application utilizes advanced technologies, including Google's GenerativeAI with the latest model Gemini Pro, to provide accurate assessments.<a href="https://ats-smart.streamlit.app/"> Click here </a> to evalute your resume.
+ATSmart is a web application designed to assist users in evaluating their resumes based on a given job description. The application utilizes advanced technologies, including Google's GenerativeAI with the latest model Gemini Pro, to provide accurate assessments.Click here <a href="https://ats-smart.streamlit.app/"> ATSmart </a> to evalute your resume.
 
 ## Features
 
